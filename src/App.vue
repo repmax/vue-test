@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
-    <MainTest msg="Hello Vue in CodeSandbox!"/>
+    <MainTest msg="Just testing!"/>
   </div>
 </template>
 
